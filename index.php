@@ -67,7 +67,7 @@
           <ul>
             <li>
               <h3>
-                <a href="tabela.php">Tabela
+                <a href="pages/tabela.php">Tabela
                 </a>
               </h3>
             </li>

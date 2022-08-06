@@ -46,6 +46,24 @@ $style =
       li{
             list-style: none;
       }
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+            margin: 20px 0px;
+        }
+
+        table tr {
+            border: 1px solid black;
+        }
+
+        table td {
+            border: 1px solid black;
+        }
+
+        img {
+            width: 20%;
+            float: right;
+        }
     </style>';
 
 return $style;
