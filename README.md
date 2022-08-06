@@ -4,8 +4,8 @@ dir comp -> component to use in front of the project
 
 to call this component, you must do the include path:
 
-  <?= $foo = include 'path' ?>
+  <h> <?= $foo = include 'path' ? > </h>
 
   or
 
-  <?= include('comp/style.php') ?>
+  <h> <?= include 'path' ? > </h>
