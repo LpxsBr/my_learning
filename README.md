@@ -1,3 +1,5 @@
+## A little about the project
+
 👀view -> https://desafiodofor.anselmolopes.repl.co/ 🤪
 
 dir comp -> component to use in front of the project
