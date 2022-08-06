@@ -1,10 +1,10 @@
 <?php 
 
-function nfooter(){
-  echo
+$footer = 
       '<footer class="rodape">
       </footer>';
-}
-return nfooter();
 
+return $footer;
+
+?>
 

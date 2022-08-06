@@ -1,7 +1,6 @@
 <?php
 
-function nstyle(){
-  return
+$style = 
     '<style>
         *{
             box-sizing: border-box;
@@ -48,7 +47,7 @@ function nstyle(){
             list-style: none;
       }
     </style>';
-}
-echo nstyle();
+
+return $style;
 
 ?>
