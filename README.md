@@ -1,11 +1,13 @@
-view -> https://desafiodofor.anselmolopes.repl.co/
+👀view -> https://desafiodofor.anselmolopes.repl.co/ 🤪
 
 dir comp -> component to use in front of the project
 
-to call this component, you must do the include path:
+  to call this component, you must do the include path:
 
-  <h> <?= $foo = include 'path' ? > </h>
-
+    👉 <?= $foo = include 'path' ?>
+  
   or
 
-  <h> <?= include 'path' ? > </h>
+    👉 <?= include 'path' ?>
+
+⚡ Instagram -> [@anselmolopess_](https://www.instagram.com/anselmolopess_/)
