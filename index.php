@@ -73,47 +73,47 @@
             </li>
             <li>
               <h3>
-                <a href="condone.php">Ternario e Switch</a>
+                <a href="pages/condone.php">Ternario e Switch</a>
               </h3>
             </li>
             <li>
               <h3>
-                <a href="learn-for.php">Uns testes</a>
+                <a href="pages/learn-for.php">Uns testes</a>
               </h3>
             </li>
             <li>
               <h3>
-                <a href="conversor-de-unidade.php">Conversor de unidade</a>
+                <a href="pages/conversor-de-unidade.php">Conversor de unidade</a>
               </h3>
             </li>
             <li>
               <h3>
-                <a href="mesesarray.php">Desafio Meses Array</a>
+                <a href="pages/mesesarray.php">Desafio Meses Array</a>
               </h3>
             </li>
             <li>
               <h3>
-                <a href="funcao.php">Funções</a>
+                <a href="pages/funcao.php">Funções</a>
               </h3>
             </li>
             <li>
               <h3>
-                <a href="recursividade.php">Recursividade</a>
+                <a href="pages/recursividade.php">Recursividade</a>
               </h3>
             </li>
             <li>
               <h3>
-                <a href="numero.php">Whatsapp</a>
+                <a href="pages/numero.php">Whatsapp</a>
               </h3>
             </li>
             <li>
               <h3>
-                <a href="busca-recursiva.php">Busca Recursiva</a>
+                <a href="pages/busca-recursiva.php">Busca Recursiva</a>
               </h3>
             </li>
             <li>
               <h3>
-                <a href="recus-soma.php">Soma Recursiva</a>
+                <a href="pages/recus-soma.php">Soma Recursiva</a>
               </h3>
             </li>
           </ul>  

@@ -1,7 +1,9 @@
 <?=include('comp/header.php')?>
 <?=include('comp/style.php')?>
 
-<h3><a href="/..">voltar</a></h3>
+<h3>
+  <a href="/..">voltar</a>
+</h3>
 <br><hr><br>
 <h1>Desafio dos meses no Array</h1>
 <hr><br>
