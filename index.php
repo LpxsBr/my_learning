@@ -65,6 +65,12 @@
     <main class="content">
         <div class="menu">
           <ul>
+             <li>
+              <h3>
+                <a href="apoio.php">apoio
+                </a>
+              </h3>
+            </li>
             <li>
               <h3>
                 <a href="pages/tabela.php">Tabela
@@ -116,9 +122,18 @@
                 <a href="pages/recus-soma.php">Soma Recursiva</a>
               </h3>
             </li>
+            <li>
+              <h3>
+                <a href="pages/mapfilter.php">Map e Filter</a>
+              </h3>
+            </li>
+            <li>
+              <h3>
+                <a href="pages/roman-to-integer.php">Roman to integer - leetcode</a>
+              </h3>
+            </li>
           </ul>  
         </div>
-
     </main>
     <footer class="rodape">
       

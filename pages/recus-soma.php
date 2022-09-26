@@ -20,7 +20,18 @@
       
       <div class="menu">
       <?php
-      
+
+function soma(...$num){
+  if($num == soma($num)){
+    $num = $num;
+  }else{
+    $num += soma(...$num);
+  }
+  return $num;
+}
+
+echo soma(1, 2, 3);
+  
       ?>
       </div>
 

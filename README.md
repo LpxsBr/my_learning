@@ -1,6 +1,6 @@
 ## A little about the project
 
-👀view -> https://desafiodofor.anselmolopes.repl.co/ 🤪
+👀view -> [Click here](https://apredizado.anselmolopes.repl.co/) 🤪
 
 dir comp -> component to use in front of the project
 
